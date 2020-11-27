@@ -1,7 +1,7 @@
 <center>
-<a href="https://walfdu.github.io/pongCercle.html"> Aller vers la version cercle </a>
+<a href="https://github.com/WalfDu/pongCercle.html"> Aller vers la version cercle </a>
 <br>
-<a href="https://walfdu.github.io/pongPolygone.html"> Aller vers la version polygone </a>
+<a href="https://github.com/WalfDu/pongPolygone.html"> Aller vers la version polygone </a>
 <br><br>
 Projet de TIPE 2019
 <br>
