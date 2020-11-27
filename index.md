@@ -1,5 +1,5 @@
 <center>
-<a href="https://walfdugithub.io/pongCercle.html"> Aller vers la version cercle </a>
+<a href="https://walfdu.github.io/pongCercle.html"> Aller vers la version cercle </a>
 <br>
 <a href="https://walfdu.github.io/pongPolygone.html"> Aller vers la version polygone </a>
 <br><br>
