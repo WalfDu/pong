@@ -1,4 +1,6 @@
 <center>
+<br>
+<br>
 <a href="https://walfdu.github.io/pong/pongCercle.html"> Aller vers la version cercle </a>
 <br>
 <a href="https://walfdu.github.io/pong/pongPolygone.html"> Aller vers la version polygone </a>
